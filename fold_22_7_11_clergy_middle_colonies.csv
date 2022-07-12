@@ -69,8 +69,14 @@ index,denomination,name,born,born_date,educated,educated_date,came from,came_dat
 ,German Reformed,John Henry Antes Ii,,,,,,,,,,,,,,1745,,,,,,,,,,,,,,
 22,Dutch Reformed,Vincentius Antonides,,1670,,,,,America,1704,,,New York City,1744,,,,,,,Freehold (Monmouth) N. J.,1705,,,,true,,,,"VINCENTIUS ANTONIDES (alias Wickaut), b. 1670; sett. Bergen and Friesland in Holland, 1700-1705; arriv. America, i Jan. 1704/5; sett. Freehold (Monmouth) N. J., liolmdel (Monmouth) N. J., and Marlborough (Monmouth) N. J., all 1705-1705; Brooklyn, Bushwick, Flatbush, Flatlands, Gravesend, Jamaica, and New Utrecht, all on Long Island, N.Y., 1705-1744; Staten Island, N.Y., at Richmond and Port Richmond, 1714-1744; Dutch Ref.; d. N.Y., 18 July 1744."
 ,Dutch Reformed,Vincentius Antonides,,,,,,,,,,,,,,,,,,,Marlborough (Monmouth) N. J.,1705,,,,,,,,
-,Dutch Reformed,Vincentius Antonides,,,,,,,,,,,,,Brooklyn NY 1705-1744|Bushwick NY 1705-1744|Flatbush NY 1705-1744|Flatlands NY 1705-1744|Gravesend NY 1705-1744|Jamaica NY 1705-1744|New Utrecht NY 1705-1744,,,,,,Richmond,1714-1744,,,,,,,,
-,Dutch Reformed,Vincentius Antonides,,,,,,,,,,,,,"Staten Island, N.Y. 1705-1744",,,,,,Port Richmond,1714-1744,,,,,,,,
+,Dutch Reformed,Vincentius Antonides,,,,,,,,,,,,,Brooklyn NY,1705-1744,,,,,Richmond,1714-1744,,,,,,,,
+,Dutch Reformed,Vincentius Antonides,,,,,,,,,,,,,Bushwick NY,1705-1744,,,,,,,,,,,,,,
+,Dutch Reformed,Vincentius Antonides,,,,,,,,,,,,,Flatbush NY,1705-1744,,,,,,,,,,,,,,
+,Dutch Reformed,Vincentius Antonides,,,,,,,,,,,,,Flatlands NY,1705-1744,,,,,,,,,,,,,,
+,Dutch Reformed,Vincentius Antonides,,,,,,,,,,,,,Gravesend NY,1705-1744,,,,,,,,,,,,,,
+,Dutch Reformed,Vincentius Antonides,,,,,,,,,,,,,Jamaica NY,1705-1744,,,,,,,,,,,,,,
+,Dutch Reformed,Vincentius Antonides,,,,,,,,,,,,,New Utrecht NY,1705-1744,,,,,,,,,,,,,,
+,Dutch Reformed,Vincentius Antonides,,,,,,,,,,,,,"Staten Island, N.Y.",1705-1744,,,,,Port Richmond,1714-1744,,,,,,,,
 23,Moravian,John Arbo,,,,,,,New York City,1761,,,Bethlehem PA,1772,,,,,,,Bethlehem (Northampton) Pa.,1761-1772,,,,true,in Europe,,,"JOHN ARBO, Ord. in Europe; arriv. N.Y., N.Y., 19 Oct. 1761; sett. Bethlehem (Northampton) Pa., 1761-1772; naturalized, Sept. 1768; Moravian; d. Bethlehem, Pa., 11 Dec. 1772."
 24,Lutheran,Bernarl Us Arentius,,,,,,,New York,,,,New York City,1691,,,,,,,Willenstad,1671-1674,,,,true,,,,"BERNARL)US ARENTIUS, inst. Willemstad, Holland, 11 Aug. 1671; sett. Willenstad, 1671-1674; came to N.Y.; sett. Albany, N.Y., 1674-1675; N.Y., N.Y., 1st Luth, or Holy Trinity Chh., 1675-1691; Luth.; d. N.Y., N.Y., 1691."
 ,Lutheran,Bernarl Us Arentius,,,,,,,,,,,,,"NY, NY",1675-1691,,,,,"Albany, N.Y.",1674-1675,,,,,,,,
@@ -82,8 +88,11 @@ index,denomination,name,born,born_date,educated,educated_date,came from,came_dat
 ,Episcopal,Jonathan Arnold,,,,,,,,,,,,,Fredericksville Parish (Albemarle) Va.,1747-1754,,,,,,,,,,,,,,
 27,Associate Reformed Presbyterian,Andrew Arnot,,,,,,,Pennsylvania,1753,Scotland,1754,,,,,,,,,"Midholm, Scotland",1752,,,,true,,,,"ANDREW ARNOT, minister at Midholm, Scotland; arriv. in Pa., 1753; preached in America, 1753-1754; returned to Scotland, 1754; Associate-Presb."
 ,Associate Reformed Presbyterian,Andrew Arnot,,,,,,,,,,,,,,1753-1754,,,,,,,,,,,,,,
-28,Dutch Reformed,Johannes Arondeus,,,,,"Overschic, Holland",,New York City,1742,Holland,1754,,,Harlingen (Somerset) NJ 1747-1754|Raritan (Somerset) NJ 1747-1754|Readington (Hunterdon) NJ 1747-1754|Somerville (Somerset) NJ 1747-1754|Six Mile Run (Somerset) NJ 1747-1754,,,,,,Brooklyn NY 1742-1747|Bushwick NY 1742-1747|Flatbush NY 1742-1747|Flatlands NY 1742-1747|Gravesend NY 1742-1747|New Utrecht NY 1742-1747,,,,,true,"Amsterdam, Holland, 9 Sept. 1741",,,"JOHANNES ARONDEUS, came from Overschic, Holland; Ord. Amsterdam, Holland, 9 Sept. 1741; arriv. N.Y., N.Y., 1742; sett. Brooklyn, Bushwick, Flatbush, Flatlands, Gravesend, and New Utrecht, all on Long Island, N.Y., 1742-1747; Harlingen (Somerset), Raritan (Somerset), Readington (Hunterdon), Somerville (Somerset), Six Mile Run (Somerset) at Franklin, and Three Mile Run, all in N. J., 1747- 1754; returned to Holland, 1754; Dutch Ref."
-,Dutch Reformed,Johannes Arondeus,,,,,,,,,,,,,,,,,,,"Franklin, and Three Mile Run, all in N. J.",1747-1754,,,,,,,,
+28,Dutch Reformed,Johannes Arondeus,,,,,"Overschic, Holland",,New York City,1742,Holland,1754,,,Harlingen (Somerset) NJ,1747-1754,,,,,Brooklyn NY 1742-1747|Bushwick NY 1742-1747|Flatbush NY 1742-1747|Flatlands NY 1742-1747|Gravesend NY 1742-1747|New Utrecht NY 1742-1747,,,,,true,"Amsterdam, Holland, 9 Sept. 1741",,,"JOHANNES ARONDEUS, came from Overschic, Holland; Ord. Amsterdam, Holland, 9 Sept. 1741; arriv. N.Y., N.Y., 1742; sett. Brooklyn, Bushwick, Flatbush, Flatlands, Gravesend, and New Utrecht, all on Long Island, N.Y., 1742-1747; Harlingen (Somerset), Raritan (Somerset), Readington (Hunterdon), Somerville (Somerset), Six Mile Run (Somerset) at Franklin, and Three Mile Run, all in N. J., 1747- 1754; returned to Holland, 1754; Dutch Ref."
+,Dutch Reformed,Johannes Arondeus,,,,,,,,,,,,,Raritan (Somerset) NJ,1747-1754,,,,,"Franklin, and Three Mile Run, all in N. J.",1747-1754,,,,,,,,
+,Dutch Reformed,Johannes Arondeus,,,,,,,,,,,,,Readington (Hunterdon) NJ,1747-1754,,,,,,,,,,,,,,
+,Dutch Reformed,Johannes Arondeus,,,,,,,,,,,,,Somerville (Somerset) NJ,1747-1754,,,,,,,,,,,,,,
+,Dutch Reformed,Johannes Arondeus,,,,,,,,,,,,,Six Mile Run (Somerset) NJ,1747-1754,,,,,,,,,,,,,,
 29,Presbyterian,Thomas Arthur,,1723,,,,,,,,,New Brunswick NJ,1750,,,,,,"Princeton, 1748-1751",New Brunswick,1746-1751,,,27,true,,"A.M., Ord. New Brunswick (Middlesex) N. J., 1746",,"THOMAS ARTHUR, A.M., b. 1723, A.B., Y.C., 1743, A.M.; Ord. New Brunswick (Middlesex) N. J., 1746; sett. New Brunswick, 1746- i7Si;Trustee, Princeton, 1748-1751; Presb.; d. New Brunswick, N. J., 2 Feb. 1750/1, a. 27."
 30,Methodist,Francis Asbury,"Hamstead Bridge, Birmingham, England",1745,,,,,Philadelphia,1771,,,Spotsylvani,1816,Bedfordshire England,1767,,,"London, England, 18 Aug. 1767",,"N.Y., N.Y.",1771-1772,,,74,true,"Bishop, 25 Dec. 1784",,Joseph and Elizabeth (Rogers) Asbury,"Bishop FRANCIS ASBURY, b. Hamstead Bridge, near Birmingham, England, 20/21 Aug. 1745, son of Joseph and Elizabeth (Rogers) Asbury; lie. London, England, 18 Aug. 1767; Bedfordshire circuit, 1767; Colchester circuit, 1768; Northamptonshire circuit, 1769; Hampshire circuit, 1770; arriv. Philadelphia, 27 Sept. 1771; minister at N.Y., N.Y., and vicinity, 1771-1772; Pemberton (Burlington) N.J., 1772-1772; appointed Superintendent of the missionary work in America, 10 Oct. 1772; Baltimore, Md., 14 July 1773-1778; missionary to Md., Va., and N.C., 1778-1784; Ord. Bishop, 25 Dec. 1784; Meth.; d. Spotsylvania, Va., 31 Mar. 1816, a. 74."
 ,Methodist,Francis Asbury,,,,,,,,,,,,,Colchester circuit,1768,,,,,,,,,,,,,,
@@ -258,7 +267,8 @@ index,denomination,name,born,born_date,educated,educated_date,came from,came_dat
 77,Lutheran,William Christopher Berckenmeyer,"Bodenteich, Duchy of Lueneburg",1686,Altdorf University,,,,New York City,1725,,,Athens NY,1751,"Amsterdam, Holland",1725,,,,,East Camp NY,1725-1729,,,68,true,,,Juergen Berckenmeyer,"WILLIAM CHRISTQPHER BERCKENMEYER, b. Bodenteich, Duchy of Lueneburg, 1686, son of Juergen Berckenmeyer; ed. Altdorf U; Qrd. Amsterdam, Holland, 24 May 1725; arriv. N.Y., N.Y., 22 Sept. 1725; sett. East Camp, Christ Chh., Kaatsbaan, and the Dutch Ref. Chhs. at Camp, West Camp, and Saugerties, all in Ulster co., N.Y., 1725-1729; N.Y., N.Y., Holy Trinity Chh., 1725-1732; Newburgh (Orange) N.Y., Quassie Chh., 1725-1731; Schoharie (Schoharie) N.Y. and Stone Arabia (Montgomery) N.Y., 1725-1743; Athens (Greene) N.Y., Loonenburgh Chh. and Claverack (Columbia) N.Y., St. Thomas's Chh., 1725-1751 ; Albany, Four Mile Point, Rosendale (Ulster) and West Camp (Ulster) N.Y., 1734-1751; Rhinebeck (Dutchess) N.Y., 1734-1751; Raritan and Hackensack, N.J.; Coxsackie, N.Y., 1725- 1729; and Schenectady, N.Y.; Luth.; d. Athens, N.Y., 25 Aug. 1751, a. 68."
 ,Lutheran,William Christopher Berckenmeyer,,,,,,,,,,,,,"NY, NY",1725-1732,,,,,Kaatsbaan NY,1725-1729,,,,,,,,
 ,Lutheran,William Christopher Berckenmeyer,,,,,,,,,,,,,Newburgh (Orange) N.Y.,1725-1731,,,,,West Camp NY,1725-1729,,,,,,,,
-,Lutheran,William Christopher Berckenmeyer,,,,,,,,,,,,,Schoharie (Schoharie) N.Y. 1725-1743|Stone Arabia (Montgomery) N.Y. 1725-1743,,,,,,Saugerties NY,1725-1729,,,,,,,,
+,Lutheran,William Christopher Berckenmeyer,,,,,,,,,,,,,Schoharie (Schoharie) N.Y.,1725-1743,,,,,Saugerties NY,1725-1729,,,,,,,,
+,Lutheran,William Christopher Berckenmeyer,,,,,,,,,,,,,Stone Arabia (Montgomery) N.Y.,1725-1743,,,,,,,,,,,,,,
 ,Lutheran,William Christopher Berckenmeyer,,,,,,,,,,,,,Athens (Greene) N.Y.(Columbia) N.Y.,1725-1751,,,,,,,,,,,,,,
 ,Lutheran,William Christopher Berckenmeyer,,,,,,,,,,,,,"Albany, Four Mile Point, Rosendale (Ulster) N.Y.",1734-1751,,,,,,,,,,,,,,
 ,Lutheran,William Christopher Berckenmeyer,,,,,,,,,,,,,West Camp (Ulster) N.Y.,1734-1751,,,,,,,,,,,,,,
@@ -534,8 +544,8 @@ index,denomination,name,born,born_date,educated,educated_date,came from,came_dat
 152,Moravian,David Bruce,Scotland,,,,Edinburgh,,Bethlehem PA,1742,,,Sharon CT,1749,,,,,,,"Nazareth (Northampton) Pa., Forks of the Delaware Church",1740-1742,,,,true,"Elder, 24 July 1740",,,"DAVID BRUCE, b. Scotland; came from Edinburgh; joined the Moravians in England; Ord. Elder, 24 July 1740; arriv. Bethlehem, Pa., 25 June 1742; sett. Nazareth (Northampton) Pa., Forks of the Delaware Chh., 1740-1742; Philadelphia, Pa., 1742-1742; N.Y., N.Y., 1742- 1742; The Minlsinks (Delaware Water Gap, Pa., Wallpack, N. J., Paulin's Kill, N. J., and the surrounding region), 1743-1744; Bethlehem, Pa., Brodhead Settlement at Dansbury, Pa., 1743-1744; Wallpack (Sussex) N.J., 1743-1744; Gnadenhuetten, Pa., Indian Chh., 1745 ff.; Indian missionary at Wequodnoc in Sharon, Conn., 1741-1749; first English speaking missionary among the Moravians in America; d. Sharon, Conn., 9 July 1749."
 ,Moravian,David Bruce,,,,,,,,,,,,,"Philadelphia, Pa.",1742-1742,,,,,"Dansbury, Pa.",1743-1744,,,,,,,,
 ,Moravian,David Bruce,,,,,,,,,,,,,"NY, NY",1742-1742,,,,,"Wequodnoc in Sharon, Conn.",1741-1749,,,,,,,,
-,Moravian,David Bruce,,,,,,,,,,,,,"Wallpack, N. J. 1743-1744|Paulin's Kill, N. J. 1743-1744",,,,,,,,,,,,,,,
-,Moravian,David Bruce,,,,,,,,,,,,,,1743-1744,,,,,,,,,,,,,,
+,Moravian,David Bruce,,,,,,,,,,,,,"Wallpack, N. J.",1743-1744,,,,,,,,,,,,,,
+,Moravian,David Bruce,,,,,,,,,,,,,"Paulin's Kill, N. J.",1743-1744,,,,,,,,,,,,,,
 ,Moravian,David Bruce,,,,,,,,,,,,,"Bethlehem, Pa.",,,,,,,,,,,,,,,
 ,Moravian,David Bruce,,,,,,,,,,,,,Wallpack (Sussex) N.J.,1743-1744,,,,,,,,,,,,,,
 ,Moravian,David Bruce,,,,,,,,,,,,,"Gnadenhuetten, Pa.",1745,,,,,,,,,,,,,,
@@ -2164,8 +2174,9 @@ index,denomination,name,born,born_date,educated,educated_date,came from,came_dat
 ,Lutheran,Michael Christian Knoll,,,,,,,,,,,,,,,,,,,Claverick NY,1732-1748,,,,,,,,
 ,Lutheran,Michael Christian Knoll,,,,,,,,,,,,,,,,,,,Athens NY,1732-1748,,,,,,,,
 ,Lutheran,Michael Christian Knoll,,,,,,,,,,,,,Rhinebeck (Dutchess) N.Y.,1732-1748,,,,,Saugerties NY,1732-1748,,,,,,,,
-,Lutheran,Michael Christian Knoll,,,,,,,,,,,,,East Camp NY 1732-1748|Kaatsbaan NY 1732-1748|West Camp NY 1732-1748,,,,,,Four Mile Point NY,1732-1748,,,,,,,,
-,Lutheran,Michael Christian Knoll,,,,,,,,,,,,,,,,,,,Rosendale NY,1732-1748,,,,,,,,
+,Lutheran,Michael Christian Knoll,,,,,,,,,,,,,East Camp NY,1732-1748,,,,,Four Mile Point NY,1732-1748,,,,,,,,
+,Lutheran,Michael Christian Knoll,,,,,,,,,,,,,Kaatsbaan NY,1732-1748,,,,,Rosendale NY,1732-1748,,,,,,,,
+,Lutheran,Michael Christian Knoll,,,,,,,,,,,,,West Camp NY,1732-1748,,,,,,,,,,,,,,
 628,German Baptist,Stephen Koch,,,,,,,Germantown PA,1719,,,Ephrata PA,1763,"Ephrata (Lane), German Bapt. Chloister",1739-1763,,,,,Krefeld,1715-1719,,,,true,"Krefeld, Rhine, Germany, ca. 1715",,,"STEPHEN KOCH, Ord. Krefeld, Rhine, Germany, ca. 1715; sett. Krefeld, 1715-1719; came to Germantown, Pa., 1719; sett. Wissahickon, Pa., 1733-1739; Ephrata (Lane.) Pa., Germ. Bapt. Chloister, 1739- 1763; Germ. Bapt.; d. Ephrata, Pa., 7 July 1763."
 ,German Baptist,Stephen Koch,,,,,,,,,,,,,,,,,,,"Wissahickon, Pa.",1733-1739,,,,,,,,
 629,Lutheran,Joshua Von Kockerthal,"Bretton, Baden",1669,,,,,New York City,1707,England,,West Camp NY,1719,,,,,,,"Landau, Palatinate Germany",1704,,,,true,,,,"JOSHUA VON KOCKERTHAL, b. near Bretton, Baden, 1669; sett. Landau, Palatinate, 1704; came to America, 1708, bringing with him many Palatine settlers; arriv. N.Y., N.Y., i Jan. 1707/8; returned to England; was Ep. ordained; K.B., N.Y., 28 Jan. 1709/10; arriv. N.Y., N.Y., 2nd time, 14 June 1710; sett. Newburgh (Orange) N.Y., Quassick Chh., 1708-1719; East Camp (Ulster) N.Y., Christ Chh., 1708-1719; Rhinebeek (Dutehess) N.Y., 1709-1719; West Camp (Ulster) N.Y., at Saugerties, 1710-1719; Kaatsbaan (Ulster) 1710-1719; Newtown (Ulster) N.Y., 1711-1719; Sehoharie (Sehoharie) N.Y., 1715-1719; Shawangunk (Ulster) N.Y., 1716-1719; Langen Raek (Ulster) N.Y., 1716-1719; Rosendale (Ulster) N.Y., 1716-1719; Tarbush, N.Y., 1716- 1719; Queensboro, N.Y., 1716-1719; Elizabethtown, N.J., bef. 1719; Luth.; d. West Camp, N.Y., 27 Dee. 1719."
@@ -3402,10 +3413,18 @@ index,denomination,name,born,born_date,educated,educated_date,came from,came_dat
 940,German Baptist,Johann Conrad Reissman,,,,,,,,,,,Ephrata PA,1786,,,,,,,Ephrata (Lane.) Pa.,1738-1786,,,,true,"Ephrata Chloister, 1768",,,"JOHANN CONRAD REISSMAN, became a Dunkard in Germany; joined Ephrata Community, 1738; Ord. Ephrata Chloister, 1768; sett. Ephrata (Lane.) Pa., 1738-1786; Germ. Bapt.; d. Ephrata, Pa., 20 Mar. 1786."
 ,German Baptist,Johann Conrad Reissman,,,,,,,,,,,,,,1738,,,,,,,,,,,,,,
 941,Moravian,Matthew Reutz,Denmark,,,,,,New York City,1743,,,Oldmans Creek NJ,1753,"Oldmans Creek, N.J.",1751-1753,,,,,"Bethlehem, Pa.",1743-1748,,,,true,1748,,,"MATTHEW REUTZ, b. Denmark; arriv. N.Y., N.Y., 26 Nov. 1743; sett. Bethlehem, Pa., 1743-1748; Ord. 1748; sett. Graceham, Md., 1751-1751; Oldmans Creek, N.J., 1751-1753; also an itinerant preacher in the following places: Philadelphia, 1743-1747; 1743-1749: Burlington, Cranbury, Middletown, Trenton, and Princeton, in N.J., Dover, Duck Creek, and Lewes in Del., and Durham, Lower Salford, Manatawny, Neshaminy, and Trappe, in Pa.; 1745-1753: Bridgeton, Cape May, Little Egg Harbor, Maurice River, and Pennsneck in N.J., Ammasland, Calkoen's Hook, Pa., and 1743-1753= Great Egg Harbor, N.J.; 1745-1749: Swedesborough, N.J.; Morav.; d. Oldmans Creek, N.J., 7 Oct. 1753."
-,Moravian,Matthew Reutz,,,,,,,,,,,,,Burlington NJ 1743-1749|Cranbury NJ 1743-1749|Middletown NJ 1743-1749|Trenton NJ 1743-1749,1743-1749,,,,,"Graceham, Md.",1751-1751,,,,,,,,
-,Moravian,Matthew Reutz,,,,,,,,,,,,,Princeton NJ 1743-1749|Dover NJ 1743-1749|Duck Creek NJ 1743-1749,,,,,,,,,,,,,,,
+,Moravian,Matthew Reutz,,,,,,,,,,,,,Burlington NJ,1743-1749,,,,,"Graceham, Md.",1751-1751,,,,,,,,
+,Moravian,Matthew Reutz,,,,,,,,,,,,,Cranbury NJ,1743-1749,,,,,,,,,,,,,,
+,Moravian,Matthew Reutz,,,,,,,,,,,,,Middletown NJ,1743-1749,,,,,,,,,,,,,,
+,Moravian,Matthew Reutz,,,,,,,,,,,,,Trenton NJ,1743-1749,,,,,,,,,,,,,,
+,Moravian,Matthew Reutz,,,,,,,,,,,,,Princeton NJ,1743-1749,,,,,,,,,,,,,,
+,Moravian,Matthew Reutz,,,,,,,,,,,,,Dover NJ,1743-1749,,,,,,,,,,,,,,
+,Moravian,Matthew Reutz,,,,,,,,,,,,,Duck Creek NJ,1743-1749,,,,,,,,,,,,,,
 ,Moravian,Matthew Reutz,,,,,,,,,,,,,Lewes in Del.,1743-1749,,,,,,,,,,,,,,
-,Moravian,Matthew Reutz,,,,,,,,,,,,,Durham PA 1743-1749|Lower Salford 1743-1749|Manatawny 1743-1749|Neshaminy 1743-1749,,,,,,,,,,,,,,,
+,Moravian,Matthew Reutz,,,,,,,,,,,,,Durham PA,1743-1749,,,,,,,,,,,,,,
+,Moravian,Matthew Reutz,,,,,,,,,,,,,Lower Salford,1743-1749,,,,,,,,,,,,,,
+,Moravian,Matthew Reutz,,,,,,,,,,,,,Manatawny,1743-1749,,,,,,,,,,,,,,
+,Moravian,Matthew Reutz,,,,,,,,,,,,,Neshaminy,1743-1749,,,,,,,,,,,,,,
 ,Moravian,Matthew Reutz,,,,,,,,,,,,,"Trappe, in Pa.",1743-1749,,,,,,,,,,,,,,
 ,Moravian,Matthew Reutz,,,,,,,,,,,,,"Bridgeton, N.J.",1745-1753,,,,,,,,,,,,,,
 ,Moravian,Matthew Reutz,,,,,,,,,,,,,"Cape May, N.J.",1743-1753,,,,,,,,,,,,,,
@@ -3424,11 +3443,18 @@ index,denomination,name,born,born_date,educated,educated_date,came from,came_dat
 ,Moravian,Owen Rice,,,,,,,,,,,,,"Burlington, Cranbury, Lawrence, Middletown, Princeton,",1743-1749,,,,,,,,,,,,,,
 ,Moravian,Owen Rice,,,,,,,,,,,,,"Trenton, N.J.",1745-1754,,,,,,,,,,,,,,
 ,Moravian,Owen Rice,,,,,,,,,,,,,Lewes,1745-1754,,,,,,,,,,,,,,
-,Moravian,Owen Rice,,,,,,,,,,,,,Durham PA 1745-1754|Lower Salford PA 1745-1754|Manatawny PA 1745-1754,,,,,,,,,,,,,,,
-,Moravian,Owen Rice,,,,,,,,,,,,,Trappe PA 1745-1754|Bridgeton NJ 1745-1754|Cape May NJ 1745-1754|Little Egg Harbor NJ 1745-1754|Maurice River NJ 1745-1754|Pennsneck NJ 1745-1754,,,,,,,,,,,,,,,
-,Moravian,Owen Rice,,,,,,,,,,,,,Swedesborough NJ 1745-1754,,,,,,,,,,,,,,,
-,Moravian,Owen Rice,,,,,,,,,,,,,Ammasland NJ 1745-1754,,,,,,,,,,,,,,,
-,Moravian,Owen Rice,,,,,,,,,,,,,Calkoen's Hook NJ 1745-1754,,,,,,,,,,,,,,,
+,Moravian,Owen Rice,,,,,,,,,,,,,Durham PA,1745-1754,,,,,,,,,,,,,,
+,Moravian,Owen Rice,,,,,,,,,,,,,Lower Salford PA,1745-1754,,,,,,,,,,,,,,
+,Moravian,Owen Rice,,,,,,,,,,,,,Manatawny PA,1745-1754,,,,,,,,,,,,,,
+,Moravian,Owen Rice,,,,,,,,,,,,,Trappe PA,1745-1754,,,,,,,,,,,,,,
+,Moravian,Owen Rice,,,,,,,,,,,,,Bridgeton NJ,1745-1754,,,,,,,,,,,,,,
+,Moravian,Owen Rice,,,,,,,,,,,,,Cape May NJ,1745-1754,,,,,,,,,,,,,,
+,Moravian,Owen Rice,,,,,,,,,,,,,Little Egg Harbor NJ,1745-1754,,,,,,,,,,,,,,
+,Moravian,Owen Rice,,,,,,,,,,,,,Maurice River NJ,1745-1754,,,,,,,,,,,,,,
+,Moravian,Owen Rice,,,,,,,,,,,,,Pennsneck NJ,1745-1754,,,,,,,,,,,,,,
+,Moravian,Owen Rice,,,,,,,,,,,,,Swedesborough NJ,1745-1754,,,,,,,,,,,,,,
+,Moravian,Owen Rice,,,,,,,,,,,,,Ammasland NJ,1745-1754,,,,,,,,,,,,,,
+,Moravian,Owen Rice,,,,,,,,,,,,,Calkoen's Hook NJ,1745-1754,,,,,,,,,,,,,,
 945,Presbyterian,Aaron Richards,"Newark, NJ",1718,,,,,,,,,Rahway NJ,1793,,,,,,,Rahway,1748-1791,,,75,true,"Rahway (Union) N.J., 15 Nov. 1748","A.M., A.B., Y.C, 1743, A.M., 1747","John, Jr. and Jane (Crane) Richards","AARON RICHARDS, A.M., b. Newark, N.J., 1718, son of John, Jr. and Jane (Crane) Richards; A.B., Y.C, 1743, A.M., 1747; Ord. Rahway (Union) N.J., 15 Nov. 1748; sett. Rahway, 1748-3 May 1791; Presb.; d. Rahway, N.J., 16 May 1793, a. 75."
 946,Congregational,John Richards,"Waterbury, CT",1726,,,,,,,,,Weybridg,1814,"Chatham, N.Y.",1771-1773,,,,,,,,,88,true,"North Guilford, Conn., 2 Nov. 1748-24 Dec. 1765","A.M., A.B., Y.C, 1745, A.M. A.M., Dart. Coll., 1782",Lieut. Thomas and Susanna (Turner) (Reynolds) Richards,"JOHN RICHARDS, A.M., b. Waterbury, Conn., 23 June 1726, son of Lieut. Thomas and Susanna (Turner) (Reynolds) Richards; A.B., Y.C, 1745, A.M.; A.M., Dart. Coll., 1782; Ord. North Guilford, Conn., 2 Nov. 1748-24 Dec. 1765; Chatham, N.Y., Christ Chh., Cong., 1771- 1773; Piermont, N.H., 5 Feb. 1776-1802; Cong.; d. Weybridge, Vt., 1814, a. 88."
 ,Congregational,John Richards,,,,,,,,,,,,,"Piermont, N.H.eb.",1776-1802,,,,,,,,,,,,,,
@@ -3536,7 +3562,7 @@ index,denomination,name,born,born_date,educated,educated_date,came from,came_dat
 ,Moravian,John Reinhold Ronner,,,,,,,,,,,,,"St. Thomas, West Indies",1750-1755,,,,,,,,,,,,,,
 ,Moravian,John Reinhold Ronner,,,,,,,,,,,,,"Bethlehem, Pa.",1755-1756,,,,,,,,,,,,,,
 ,Moravian,John Reinhold Ronner,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,Moravian,John Reinhold Ronner,,,,,,,,,,,,,Durham NJ 1743-1747,,,,,,,,,,,,,,,
+,Moravian,John Reinhold Ronner,,,,,,,,,,,,,Durham NJ,1743-1747,,,,,,,,,,,,,,
 ,Moravian,John Reinhold Ronner,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Moravian,John Reinhold Ronner,,,,,,,,,,,,,Philadelphia,,,,,,,,,,,,,,,
 969,Presbyterian,John Rosburgh,Ireland,1722,,,,,America,1735,,,Trenton NJ,1777,Rosbrugh,,,"Rev. War., 1776-1777",1764,,"Allen, Pa.",1769-1777,,,,true,"Greenwich (Warren) N.J., 11 Dec. 1764-18 Apr. 1769","A.B., Princeton, 1761",,"JOHN ROSBURGH, A.B. (or Rosbrugh), b. Ireland, 1722, of Scotch parents; came to America, 1735; A.B., Princeton, 1761; lie. 1764; Ord. Greenwich (Warren) N.J., 11 Dec. 1764-18 Apr. 1769; Oxford (Warren) N.J., 1764-1769; Washington Borough (Warren) N.J., MansfieldWoodhouse Chh., 1764-1769; Knowlton (Warren) N.J., 1775-1777; Hardwick (Warren) N.J., 1764-1769; inst. Allen (Northampton) Pa., Forks West Chh., 28 Oct. 1772; sett. Allen, Pa., 1769-1777; Upper Mount Bethel (Northampton) Pa., Forks North Chh., 1769-1777; Mount Bethel (Lehigh) Pa., Hunter's Chh., 1768-1774, as stated supply; private. Continental Army, 1776; Chaplain, Rev. War., 1776-1777; Presb.; killed by the British, at Assunpink, Trenton, N.J., 2 Jan. 1777."
@@ -4068,8 +4094,11 @@ index,denomination,name,born,born_date,educated,educated_date,came from,came_dat
 ,German Reformed,Johnnrad Steiner,,,,,,,,,,,,,Union (Adams) Pa.,1756-1759,,,,,,,,,,,,,,
 ,German Reformed,Johnnrad Steiner,,,,,,,,,,,,,Conewago (York) Pa.,1756-1759,,,,,,,,,,,,,,
 ,German Reformed,Johnnrad Steiner,,,,,,,,,,,,,Winehester (Frederiek) Va.,1756-1759,,,,,,,,,,,,,,
-,German Reformed,Johnnrad Steiner,,,,,,,,,,,,,"Antietam (Washington) Md. 1756-1759|Frederiek, Glade (Garrett) Md. 1756-1759|Middletown (Frederiek) Md. 1756-1759|Pipe Creek (Frederiek) Md. 1756-1759",,,,,,,,,,,,,,,
-,German Reformed,Johnnrad Steiner,,,,,,,,,,,,,Turkey MD 1756-1759,,,,,,,,,,,,,,,
+,German Reformed,Johnnrad Steiner,,,,,,,,,,,,,Antietam (Washington) Md.,1756-1759,,,,,,,,,,,,,,
+,German Reformed,Johnnrad Steiner,,,,,,,,,,,,,"Frederiek, Glade (Garrett) Md.",1756-1759,,,,,,,,,,,,,,
+,German Reformed,Johnnrad Steiner,,,,,,,,,,,,,Middletown (Frederiek) Md.,1756-1759,,,,,,,,,,,,,,
+,German Reformed,Johnnrad Steiner,,,,,,,,,,,,,Pipe Creek (Frederiek) Md.,1756-1759,,,,,,,,,,,,,,
+,German Reformed,Johnnrad Steiner,,,,,,,,,,,,,Turkey MD,1756-1759,,,,,,,,,,,,,,
 1100,German Reformed,John Conrad Steiner,,,,,,,,,,,Allentown PA,1781,"Peterzell, Switzerland",1737,,,,,"Salisbury (Lehigh) Pa., Jerusalem Church",1770-1771,,,,true,"Lancaster, Pa., 17 June 1772",,,"JOHN CONRAD STEINER, Jr., b. Peterzell, Switzerland, 8 May 1737, son of the Rev^ John Conrad and Regula (Hegner) Steiner; Ord. Lancaster, Pa., 17 June 1772; sett. Salisbury (Lehigh) Pa., Jerusalem Chh., 1770-1771; Albany (Berks) Pa., Frieden's Chh., 1771-1774; Greenwich (Berks) Pa., Dunkel Chh., 1771-1775; Oley (Berks) Pa., 1771-1774; Heidelberg (Lehigh) Pa., 1771-1772; Lowhill (Lehigh) Pa., 1771-1772; Lynn (Lehigh) Pa., Ebenezer or Organ Chh., 1771-1774, Jacob's Chh., 1771-1774, Tresbacker Chh., 1771-1776; Lehigh (Northampton) Pa., Driesbaeh Chh., 1771-1781; Moore (Northampton) Pa., Union Chh., 1771-1781, Emmanuel Chh., 1774-1781; Allen & Lehigh (Northampton) Pa., 1774-1781; Germ. Ref.; d. Allentown, Pa., 14 Nov. 1781."
 ,German Reformed,John Conrad Steiner,,,,,,,,,,,,,Albany (Berks) Pa.,1771-1774,,,,,,,,,,,,,,
 ,German Reformed,John Conrad Steiner,,,,,,,,,,,,,Greenwich (Berks) Pa.,1771-1775,,,,,,,,,,,,,,
@@ -4699,14 +4728,14 @@ index,denomination,name,born,born_date,educated,educated_date,came from,came_dat
 1244,Presbyterian,Joseph Webb,"Fairfield, CT",1693,,,,,,,New Haven CT,,,1741,,,,,,,"Newark, N.J.",1718-1736,,,,true,"Newark, N.J., 22 Oct. 1719","Y.C, 1715, A.M.",the Rev. Joseph and Elizabeth (Nichols) Webb,"JOSEPH WEBB, Jr., A.M., b. Fairfield, Conn., 21 Sept. 1693, son of the Rev. Joseph and Elizabeth (Nichols) Webb; A.B.; Y.C, 1715, A.M.; Ord. Newark, N.J., 22 Oct. 1719; sett. Newark, N.J., 1718-1736; Presb.; returned to New Haven; drowned in the Connecticut River, near Saybrook, 20 Oct. 1741."
 1245,Methodist,Thomas Webb,England,1724,,,,,America,1766,,,Bristol England,1796,Pemberton (Burlington) N.J.,1770,,,,,"N.Y., N.Y., John Street Church",1766-1771,,,72,true,,,,"Captain THOMAS WEBB, b. England, 1724; came to America, ca. 1766; sett. N.Y., N.Y., John Street Chh., 1766-1771; Pemberton (Burlington) N.J., at New Mills, 1770-1771; visited England, 1771-1773, 1774-1782; Philadelphia and New York Conferences; sett. Bristol, England, 1783-1796; lost an eye at the siege of Louisburg; Captain in the British Army; fought under General Wolfe at Quebec, 1758; Meth.; d. Bristol, England, 10 Dee 1796, a. 72."
 ,Methodist,Thomas Webb,,,,,,,,,,,,,England,1771-1773,,,,,"Bristol, England",1783-1796,,,,,,,,
-,Methodist,Thomas Webb,,,,,,,,,,,,,Philadelphia 1774-1782|New York 1774-1782,,,,,,New Mills,1770-1771,,,,,,,,
-,Methodist,Thomas Webb,,,,,,,,,,,,,,,,,,,Louisburg Canada,1758,,,,,,,,
+,Methodist,Thomas Webb,,,,,,,,,,,,,Philadelphia,1774-1782,,,,,New Mills,1770-1771,,,,,,,,
+,Methodist,Thomas Webb,,,,,,,,,,,,,New York,1774-1782,,,,,Louisburg Canada,1758,,,,,,,,
 ,Methodist,Thomas Webb,,,,,,,,,,,,,,,,,,,Quebec,1758,,,,,,,,
 1246,German Reformed,John William Weber,"Wittgenstein, Germany",1735,,,,,Philadelphia,1764,,,"Hempfiel, July",1816,,,,,,,Wind Gap (Monroe) Pa.,1771-1776,,,82,true,"Lancaster, Pa., 17 June 1772",,,"JOHN WILLIAM WEBER, b. Wittgenstein, Germany, 5 Mar. 1735; school-teacher at Wittgenstein, 23 Apr. 1764; arriv. Philadelphia, 20 Sept. 1764; Ord. Lancaster, Pa., 17 June 1772; sett. Wind Gap (Monroe) Pa., 1771-1776; in 1776, he was preaching in Plainfield (Northampton) Pa., Greenwich (Berks) Pa., Hamilton (Monroe) Pa., Easton, Pa., and other places; he was the first minister of any denomination to settle in Pittsburgh; sett. Pittsburgh, Pa., Sept. 1782-1814; and in Westmoreland CO., at Bush Creek, Hempfield, Mt. Pleasant, Heralds, etc.; Germ. Ref.; d. Hempfield, Westmoreland co.. Pa., July 1816, a. 82."
-,German Reformed,John William Weber,,,,,,,,,,,,,Plainfield (Northampton) Pa.1776|Greenwich (Berks) Pa.1776|Hamilton (Monroe) Pa.1776|Easton PA 1776,,,,,,"Pittsburgh, Pa., Sept.",1782-1814,,,,,,,,
-,German Reformed,John William Weber,,,,,,,,,,,,,,,,,,,Wittgenstein,1764,,,,,,,,
-,German Reformed,John William Weber,,,,,,,,,,,,,,,,,,,Bush Creek PA,1782-1814,,,,,,,,
-,German Reformed,John William Weber,,,,,,,,,,,,,,,,,,,Hempfield PA,1782-1814,,,,,,,,
+,German Reformed,John William Weber,,,,,,,,,,,,,Plainfield (Northampton) Pa.,1776,,,,,"Pittsburgh, Pa., Sept.",1782-1814,,,,,,,,
+,German Reformed,John William Weber,,,,,,,,,,,,,Greenwich (Berks) Pa.,1776,,,,,Wittgenstein,1764,,,,,,,,
+,German Reformed,John William Weber,,,,,,,,,,,,,Hamilton (Monroe) Pa.,1776,,,,,Bush Creek PA,1782-1814,,,,,,,,
+,German Reformed,John William Weber,,,,,,,,,,,,,Easton PA,1776,,,,,Hempfield PA,1782-1814,,,,,,,,
 ,German Reformed,John William Weber,,,,,,,,,,,,,,,,,,,Mt. Pleasant PA,1782-1814,,,,,,,,
 ,German Reformed,John William Weber,,,,,,,,,,,,,,,,,,,Heralds PA,1782-1814,,,,,,,,
 1247,Methodist,Richard Webster,,,,,,,,,,,,,Chester (Del.) Pa.,1775-1775,,,,,"Eastern Shore, Maryland",1772,,,,true,,,,"RICHARD WEBSTER, sett. Eastern Shore, Maryland, 24 Dec. 1772; Chester (Del.) Pa., Madison Street Chh., 1775-1775; Goshen (Chester) Pa., at West Whiteland, 1775-1775; Uwchlan (Chester) Pa., Benson's Chapel, 1775-1775; Chester Circuit, Chester co.. Pa., 1775- 1775 (see Isaac Rollins); Meth."
