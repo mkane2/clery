@@ -1,2 +1,1 @@
-# clery
-Clergy of the Middle Colonies
+# Clergy of the Middle Colonies
